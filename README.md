@@ -1,6 +1,6 @@
-https://github.com/user-attachments/assets/5e1e8401-db24-43a7-b39d-06771f072b29
+https://github.com/user-attachments/assets/2ce93740-3eed-46e9-a604-ce867c4f8fda
 
-<!-- Nowe hero (demo z lektorem PL + napisy EN, 1:19): GitHub renderuje wideo tylko z user-attachments (tag <video> z zewnętrznym src jest wycinany - sprawdzone 2026-09-26: release assets i własna domena nie działają). Plik do wrzucenia: release "media" w tym repo albo demos/ko-rag/out/ko-rag-demo.mp4. Po uploadzie podmień URL powyżej. -->
+<!-- Poprzednie hero (backup, bez lektora): https://github.com/user-attachments/assets/5e1e8401-db24-43a7-b39d-06771f072b29 -->
 
 
 

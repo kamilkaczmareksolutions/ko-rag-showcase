@@ -1,6 +1,6 @@
-https://github.com/user-attachments/assets/5e1e8401-db24-43a7-b39d-06771f072b29
+https://github.com/user-attachments/assets/2ce93740-3eed-46e9-a604-ce867c4f8fda
 
-<!-- New hero (demo with PL voiceover + EN captions, 1:19): GitHub renders videos only from user-attachments (<video> with external src gets stripped - verified 2026-09-26: release assets and own domain do not work). File to upload: release "media" in this repo or demos/ko-rag/out/ko-rag-demo.mp4. After upload, swap the URL above. -->
+<!-- Previous hero (backup, no voiceover): https://github.com/user-attachments/assets/5e1e8401-db24-43a7-b39d-06771f072b29 -->
 
 <h1 align="center">KO-RAG</h1>
 
