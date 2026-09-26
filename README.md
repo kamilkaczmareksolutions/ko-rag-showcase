@@ -1,4 +1,4 @@
-<video src="https://github.com/kamilkaczmareksolutions/ko-rag-showcase/releases/download/media/ko-rag-demo.mp4" controls poster="https://raw.githubusercontent.com/kamilkaczmareksolutions/ko-rag-showcase/main/assets/hero.png" width="100%"></video>
+<video src="https://kamilkaczmareksolutions.com/projekty/ko-rag-demo.mp4" controls poster="https://raw.githubusercontent.com/kamilkaczmareksolutions/ko-rag-showcase/main/assets/hero.png" width="100%"></video>
 
 <!-- Poprzednie hero (backup, bez lektora): https://github.com/user-attachments/assets/5e1e8401-db24-43a7-b39d-06771f072b29 -->
 
